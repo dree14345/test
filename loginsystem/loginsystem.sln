@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "loginsystem", "loginsystem\loginsystem.vbproj", "{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Itanium = Debug|Itanium
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Itanium = Release|Itanium
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}.Debug|Itanium.ActiveCfg = Debug|Itanium
+		{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}.Debug|Itanium.Build.0 = Debug|Itanium
+		{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}.Debug|x64.ActiveCfg = Debug|x86
+		{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}.Debug|x64.Build.0 = Debug|x86
+		{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}.Debug|x86.ActiveCfg = Debug|x86
+		{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}.Debug|x86.Build.0 = Debug|x86
+		{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}.Release|Itanium.ActiveCfg = Release|Itanium
+		{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}.Release|Itanium.Build.0 = Release|Itanium
+		{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}.Release|x64.ActiveCfg = Release|x64
+		{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}.Release|x64.Build.0 = Release|x64
+		{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}.Release|x86.ActiveCfg = Release|x86
+		{08FB6A53-B11B-47B3-872A-85EF0CF5C04C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

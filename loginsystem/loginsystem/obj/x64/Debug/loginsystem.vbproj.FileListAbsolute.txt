@@ -1,0 +1,6 @@
+D:\tres\loginsystem\loginsystem\obj\x64\Debug\loginsystem.vbproj.ResolveComReference.cache
+D:\tres\loginsystem\loginsystem\obj\x64\Debug\loginsystem.formUsers.resources
+D:\tres\loginsystem\loginsystem\obj\x64\Debug\loginsystem.mainform.resources
+D:\tres\loginsystem\loginsystem\obj\x64\Debug\loginsystem.Resources.resources
+D:\tres\loginsystem\loginsystem\obj\x64\Debug\loginsystem.Tres.resources
+D:\tres\loginsystem\loginsystem\obj\x64\Debug\loginsystem.vbproj.GenerateResource.Cache

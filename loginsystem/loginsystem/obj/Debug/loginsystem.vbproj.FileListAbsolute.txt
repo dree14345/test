@@ -1,0 +1,10 @@
+D:\tres\loginsystem\loginsystem\obj\Debug\loginsystem.vbproj.ResolveComReference.cache
+D:\tres\loginsystem\loginsystem\obj\Debug\loginsystem.formUsers.resources
+D:\tres\loginsystem\loginsystem\obj\Debug\loginsystem.mainform.resources
+D:\tres\loginsystem\loginsystem\obj\Debug\loginsystem.Resources.resources
+D:\tres\loginsystem\loginsystem\obj\Debug\loginsystem.Andre.resources
+D:\tres\loginsystem\loginsystem\obj\Debug\loginsystem.vbproj.GenerateResource.Cache
+D:\tres\loginsystem\loginsystem\bin\Debug\loginsystem.exe
+D:\tres\loginsystem\loginsystem\bin\Debug\loginsystem.pdb
+D:\tres\loginsystem\loginsystem\obj\Debug\loginsystem.exe
+D:\tres\loginsystem\loginsystem\obj\Debug\loginsystem.pdb

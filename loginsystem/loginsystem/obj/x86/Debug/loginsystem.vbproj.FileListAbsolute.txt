@@ -1,0 +1,12 @@
+D:\tres\loginsystem\loginsystem\bin\Debug\loginsystem.exe
+D:\tres\loginsystem\loginsystem\bin\Debug\loginsystem.pdb
+D:\tres\loginsystem\loginsystem\bin\Debug\loginsystem.xml
+D:\tres\loginsystem\loginsystem\obj\x86\Debug\loginsystem.Resources.resources
+D:\tres\loginsystem\loginsystem\obj\x86\Debug\loginsystem.vbproj.GenerateResource.Cache
+D:\tres\loginsystem\loginsystem\obj\x86\Debug\loginsystem.exe
+D:\tres\loginsystem\loginsystem\obj\x86\Debug\loginsystem.xml
+D:\tres\loginsystem\loginsystem\obj\x86\Debug\loginsystem.pdb
+D:\tres\loginsystem\loginsystem\obj\x86\Debug\loginsystem.vbproj.ResolveComReference.cache
+D:\tres\loginsystem\loginsystem\obj\x86\Debug\loginsystem.formUsers.resources
+D:\tres\loginsystem\loginsystem\obj\x86\Debug\loginsystem.mainform.resources
+D:\tres\loginsystem\loginsystem\obj\x86\Debug\loginsystem.Andre.resources
